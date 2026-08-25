@@ -1,1 +1,6 @@
-install-module psreadline # installs psreadline module
+Install-Module psreadline                  # installs psreadline module
+Get-ChildItem                              # lists folders
+New-Item -Name "name" -ItemType Directory  # creates new folder "name"
+New-Item -Name "name.txt" -ItemType File   # creates new file "name.txt"
+Set-Location -Path .\Test\                 # Switch repository to .\Test\
+					   # Queries ts
