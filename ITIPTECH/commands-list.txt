@@ -3,3 +3,5 @@ Get-ChildItem                              # lists folders
 New-Item -Name "name" -ItemType Directory  # creates new folder "name"
 New-Item -Name "name.txt" -ItemType File   # creates new file "name.txt"
 Set-Location -Path .\Test\                 # Switch repository to .\Test\
+Get-Help [<cmdlet>]                        # Shows guide on how to use a cmdlet
+Update-Help -Module [<module>]             # Gets updated help on module 
