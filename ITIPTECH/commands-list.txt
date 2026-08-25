@@ -1,0 +1,1 @@
+install-module psreadline # installs psreadline module
