@@ -1,0 +1,69 @@
+{
+  "monday": {
+    "ITSIAA1": {
+      "name": "System Integration and Architecture 1 (Fundamentals of SIA)",
+      "professor": "Prof. Mades, Michael",
+      "time": "7:00AM - 8:30AM",
+      "room": "209 PRRC"
+    }
+  },
+
+  "monday-and-thursday": {
+    "CCINFOM": {
+      "name": "Information Management (Fundamentals of IM)",
+      "professor": "Prof. Fermin, Anndrea Fatimah",
+      "time": "8:30 AM - 10:00 AM",
+      "room": "206 PRRC"
+    },
+    "ITDMATH": {
+      "name": "Discrete Mathematics",
+      "professor": "Engr. Almazan, Medilyn M.",
+      "time": "10:30 AM - 12:00 PM",
+      "room": "209 PRRC"
+    },
+    "SCITECH": {
+      "name": "Science, Technology, and Society",
+      "professor": "Prof. Palero, RL Riva B.",
+      "time": "12:00 PM - 1:30 PM",
+      "room": "208 PRRC"
+    },
+    "ITIPTECH": {
+      "name": "Integrative Programming and Technologies 1",
+      "professor": "Prof. Pascual, Jonathan",
+      "time": "2:00 PM - 3:30 PM",
+      "room": "301 NB"
+    },
+    "ITNETW1": {
+      "name": "Networking 1 (Fundamentals of Networking)",
+      "professor": "Prof. Anore-Flores, Gretchen",
+      "time": "3:30 PM - 5:00 PM",
+      "room": "107 PRRC"
+    },
+    "CONWRLD": {
+      "name": "The Contemporary World",
+      "professor": "Prof. Perez, Cristobal",
+      "time": "5:30 PM - 7:00 PM",
+      "room": "207 PRRC"
+    }
+  },
+  "wednesday": {
+    "ITELECT2": {
+      "name": "IT Elective 2 (Object-Oriented Programming)",
+      "professor": "Prof. Pascual, Jonathan",
+      "time": "10:30 AM - 12:00 PM",
+      "room": "COMLAB3"
+    },
+    "ITSIAA1": {
+      "name": "System Integration and Architecture 1 (Fundamentals of SIA)",
+      "professor": "Prof. Mades, Michael",
+      "time": "3:00PM - 4:30PM",
+      "room": "208 PRRC"
+    }, 
+    "PAHFIT3": {
+      "name": "Physical Activity Towards Health and Fitness 3",
+      "professor": "Prof. Malata, Alden",
+      "time": "5:00PM - 7:00PM",
+      "room": "Sports Complex"
+    }
+  }
+}
